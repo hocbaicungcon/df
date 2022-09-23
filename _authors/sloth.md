@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/sloth.web
+photo: /assets/img/uploads/sloth.webp
 name: sloth
 display_name: Sloth
 position: Chief Editor
